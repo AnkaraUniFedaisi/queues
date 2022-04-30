@@ -1,2 +1,2 @@
 # queues
-Queue Data Structure
+A simple queue data structure
